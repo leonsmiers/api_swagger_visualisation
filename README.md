@@ -3,8 +3,7 @@
 - NPM
 
 ## Installing
-- `$ npm i -g gulp`
-- `$ npm i`
+- `$ npm init`
 
 ## Running
 `$ node index.js`
@@ -30,7 +29,7 @@ For more information see the blogpost:
 <li>Download this NodeJS project</li>
 <li>Initialise the project</li>
     Install the required Node module by running npm init from the command line</li>
-<li>Download the Process Cloud API, and place the Swagger file in the public directory in the NodeJS project.
+<li>Download the (Oracle) Cloud API, and place the Swagger file in the public directory in the NodeJS project.
     <br>
     You might want to rename the JSON file towards an appropriate name, for instance PCS-swagger.json </li>
 <li>Start the NodeJS project
