@@ -40,9 +40,11 @@ For more information see the blogpost:
 </ol>
 
 ### Dependencies
-"body-parser": "^1.15.2",
-"cookie-parser": "^1.4.3",
-"express": "^4.14.0",
-"multer": "^1.2.1"
+<ul>
+  <li>body-parser</li>
+  <li>cookie-parser</li>
+  <li>express</li>
+  <li>multer</li>  
+</ul>
 
 ### Devdependencies
