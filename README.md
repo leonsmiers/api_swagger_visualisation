@@ -20,6 +20,8 @@ The reason for that is that the Swagger UI requires CORS.
 This Node project supports solving this problem.
 
 For more information see the blogpost:
+Getting the best Oracle API information with Swagger and a pinch of NodeJS
+https://www.capgemini.com/blog/capgemini-oracle-blog/2017/01/getting-the-best-oracle-api-information-with-swagger-and-a-pinch
 
 (1) First install NodeJS and NPM.  
 Go to https://nodejs.org for more details on this topic
