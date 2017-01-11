@@ -14,7 +14,7 @@
 This node scripts supports showing API files in the Swagger UI (An HTML5 based UI for exploring and interacting with a Swagger defined API) with proper CORS support.
 When Swagger is opened and you try to use an API reference like http://docs.oracle.com/cloud/latest/process_gs/CPRRA/swagger.json
 the following error is shown in Swagger :
-<hr>
+<br>
 "Can't read from server. It may not have the appropriate access-control-origin settings".
 The reason for that is that the Swagger UI requires CORS.
 This Node project supports solving this problem.
